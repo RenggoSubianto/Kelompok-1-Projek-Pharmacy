@@ -1,9 +1,9 @@
 # Aplikasi Mobile UI Pharmacy
  Kelompok 1
-- M Reza Al Fiannur 2211102441240
 - Renggo Subianto 2211102441098
 - Rusdiyansyah 2211102441090
 - Wahyu Saputra 2211102441108
+- M Reza Al Fiannur 2211102441240
 
 ## Getting Started
 
